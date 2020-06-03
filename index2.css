@@ -1,0 +1,33 @@
+body {
+    background-image: url(IMG/BG1.png);
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.R_L h1 {
+    background: linear-gradient(90deg, #c9e8e3 50%, #f5b7b7 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.IMG {
+    text-align: center;
+}
+img.yohaku1 {
+    margin: 12.5px;
+}
+img.yohaku2 {
+    margin: 12.5px;
+}
+iframe.yohaku3 {
+    margin: 12.5px;
+}
